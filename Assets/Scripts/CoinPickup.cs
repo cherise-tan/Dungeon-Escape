@@ -13,7 +13,6 @@ public class CoinPickup : MonoBehaviour {
 
         if (collision == playerCollider)
         {
-            print("collision occured");
             FindObjectOfType<GameSession>().AddToScore(pointsForCoinPickup);
 
             AudioSource.PlayClipAtPoint(coinPickUpSFX, Camera.main.transform.position);

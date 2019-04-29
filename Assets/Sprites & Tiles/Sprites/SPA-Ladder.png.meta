@@ -90,10 +90,10 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape:
-    - - {x: -6.9292574, y: -16}
-      - {x: -6.9919662, y: 16}
-      - {x: 6.9919662, y: 16}
-      - {x: 6.9919662, y: -16}
+    - - {x: -10.942583, y: -16}
+      - {x: -11.005292, y: 16}
+      - {x: 11.130709, y: 16}
+      - {x: 11.005293, y: -16}
   spritePackingTag: 
   userData: 
   assetBundleName: 
