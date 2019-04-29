@@ -4910,6 +4910,48 @@ PolygonCollider2D:
       - {x: -15.639466, y: -6.6031423}
       - {x: 6.5895987, y: -6.552035}
       - {x: 6.463336, y: 6.3662853}
+--- !u!1001 &1617158802
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046135080154894, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 7b44bc5582240f541b0a1dbe0ca9746d, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1828936109
 Prefab:
   m_ObjectHideFlags: 0

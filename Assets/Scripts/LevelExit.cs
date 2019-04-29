@@ -13,7 +13,7 @@ public class LevelExit : MonoBehaviour {
     {
         GameObject player = collision.gameObject;
 
-        GameObject sparkles = Instantiate(sparkleAnimation, transform.position, transform.rotation);
+        Instantiate(sparkleAnimation, transform.position, transform.rotation);
         player.SetActive(false);
         
         StartCoroutine(LoadNextLevel());        
