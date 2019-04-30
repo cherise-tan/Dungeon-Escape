@@ -12,7 +12,8 @@ public class Menu : MonoBehaviour {
 
     public void PlayAgain()
     {
-        SceneManager.LoadScene(0);
+
+        FindObjectOfType<GameSession>().ResetGameSession();
     }
 
 
